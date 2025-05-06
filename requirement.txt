@@ -1,0 +1,13 @@
+For google colab
+!pip install streamlit 
+!pip install googletrans==3.1.0a0
+!pip install gtts
+!pip install SpeechRecognition
+!pip install pyaudio
+
+for local
+pip install streamlit 
+pip install googletrans==3.1.0a0
+pip install gtts
+pip install SpeechRecognition
+pip install pyaudio
